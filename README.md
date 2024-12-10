@@ -1,7 +1,5 @@
 # social-link-profile-main
 
-# social-link-profile-main
-
 ## The challenge
 
 The challenge is to build out this social links profile and get it looking as close to the design as possible.
